@@ -2,4 +2,4 @@
 
 Status: In progress 
 
-Description: UI for the stepmotor's controll. Control over the RPi ore microcontroller. Remote manipulation over TCP/IP or serial communication. Programming languages JAVA/Python
+Description: GUI for the stepmotor's controll. Control of the stepper using steppdriver and RPi GPIO interface. Remote manipulation over TCP/IP or serial communication. Programming languages JAVA/Python.
