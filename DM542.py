@@ -1,7 +1,7 @@
 from time import sleep
 from RPi import GPIO
 
-#Code is wreeten for the control of stepper driver DRV8825 with RPi 
+#Code is written for the control of stepper driver DRV8825 with RPi 
 class StepDriver:    
     def __init__(self, DIR = 33, PUL = 35, ENA = 37):        
         self.delay_sec= 0.005 #delay_sec used for sleep event in methods used below
